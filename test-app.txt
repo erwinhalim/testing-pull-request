@@ -11,3 +11,4 @@ ini dari fitur 5
 ini dari fitur 4
 ini push 8 
 ini dari fitur 5 - 2
+ini dari fitur 6
